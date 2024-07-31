@@ -1,2 +1,2 @@
 # OS_Tools
-Some common tools of the system
+Some of the commonly used tools of the system are only for personal learning use, no commercial use!
